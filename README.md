@@ -1,2 +1,3 @@
 # .github
-Snapcast workflow templates repository
+
+For the Snapcast org's README, visible on github.com/snapcast
